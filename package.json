@@ -1,0 +1,34 @@
+{
+  "name": "use-reactive-localstorage.nosync",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c"
+  },
+  "keywords": [],
+  "module": "./dist/index.esm.js",
+  "main": "./dist/index.umd.js",
+  "files": [
+    "dist/"
+  ],
+  "author": "Rail Batyrshin",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "rollup": "^4.24.0",
+    "rollup-plugin-esbuild-minify": "^1.1.2",
+    "rollup-plugin-typescript2": "^0.36.0",
+    "typescript": "^5.6.3"
+  },
+  "peerDependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "type": "module"
+}
