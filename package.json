@@ -1,6 +1,6 @@
 {
   "name": "use-reactive-ls",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -29,6 +29,10 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TangoPJ/use-reactive-ls.git"
   },
   "type": "module"
 }
