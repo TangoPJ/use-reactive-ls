@@ -2,6 +2,6 @@ Just for fun, I whipped up a custom React hook that makes localStorage reactive.
 
 [Example in the online editor](https://stackblitz.com/edit/react-starter-typescript-3cjkkm?file=App.tsx)
 
-![VEED Create Screen Recording](https://github.com/user-attachments/assets/a7e61c55-d210-42bc-9584-58a1330bdf8e)
+![Screen Recording Oct 25](https://github.com/user-attachments/assets/d546d9ba-9738-4fec-9999-625961c3d39d)
 
 Oh, and don’t forget to eat your broccoli 🥦 — it’s good for you!
