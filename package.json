@@ -1,6 +1,6 @@
 {
-  "name": "use-reactive-localstorage.nosync",
-  "version": "1.0.0",
+  "name": "use-reactive-ls",
+  "version": "1.0.2",
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
